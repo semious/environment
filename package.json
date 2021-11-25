@@ -1,7 +1,13 @@
 {
-  "name": "environment",
-  "version": "1.0.0",
+  "name": "mini-lark",
+  "version": "1.0.1",
   "description": "各种端环境的判断",
+  "keywords":[
+    "environment",
+    "judge",
+    "judge-environment",
+    "miniapp"
+  ],
   "main": "dist/index.js",
   "repository": "git@github.com:semious/environment.git",
   "author": "wangwei.wang <wangwei.wang@antgroup.com>",
