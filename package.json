@@ -1,0 +1,16 @@
+{
+  "name": "environment",
+  "version": "1.0.0",
+  "description": "各种端环境的判断",
+  "main": "dist/index.ts",
+  "repository": "git@github.com:semious/environment.git",
+  "author": "wangwei.wang <wangwei.wang@antgroup.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  },
+  "scripts": {
+    "build": "tsc",
+    "publish": "npm publish"
+  }
+}
